@@ -1,0 +1,33 @@
+body {
+  background-image: url("http://sallysbakingaddiction.com/wp-content/uploads/2014/06/Chocolate-Cupcakes-with-Vanilla-Frosting-7.jpg");
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  top: 0;
+  left: 0;
+  text-align: center;
+}
+
+.flash {
+  color: red;
+  font-style: italic;
+}
+
+p, h1, h2 {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+p.flash {
+  font-size: 25px;
+}
+
+ul {
+  list-style: none;
+  font-size: 20px;
+}
+
+.best {
+  font-size: 20px;
+  font-style: oblique;
+  font-family: monospace;
+}
